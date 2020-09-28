@@ -39,6 +39,14 @@
     After price is set, rest up to us.   
 
 
-# If you will not get details of item(Don't Worry)
-    We will contact you, via email with your searched URL
+#  If you will not get details of item (Don't Worry)
+      We will contact you, via email with your searched URL
+      
+# OPERATIONS
+1. You can check ,added items in your cart
+2. Update the prices
+3. Delete the items
+4. Price will be check in every 20 min., whenever price drop, you will get notification on your registered email.
+
   
+# Website Link:-https://droppricealert.herokuapp.com/
