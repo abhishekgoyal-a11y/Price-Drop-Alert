@@ -49,6 +49,9 @@
 4. Price will be check in every 20 min., whenever price drop, you will get notification on your registered email.
 
 # PURPOSE OF MAKING
-  It has been observed that prices of many items on online stores fluctuate at very high frequency like in Amazon, the price will change in every 10 minutes. With the help of this web app you can track any product you wish to buy. This web app can track both E-commerce as well as E-learning Websites like:- Amazon,Udemy,Flipkart etc.
+    It has been observed that prices of many items on online stores fluctuate at very high frequency like in Amazon, the price will change in every 10 minutes. With the help of this web app you can track any product you wish to buy. This web app can track both E-commerce as well as E-learning Websites like:- Amazon,Udemy,Flipkart etc.
+
+# QUERY
+    For any query, leave you message, we will try to contact you or solve your problem.
 
 # Website Link:-https://droppricealert.herokuapp.com/
