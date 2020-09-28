@@ -31,9 +31,14 @@
      1. Item Name
      2. Item Price
      
-#  2 SET YOUR PRICE
+#  2. SET YOUR PRICE
     ERROR:-
         1. Set price can't be negative
         2. Set price can be less than current price of item
         
     After price is set, rest up to us.   
+
+
+# If you will not get details of item(Don't Worry)
+    We will contact you, via email with your searched URL
+  
