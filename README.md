@@ -1,6 +1,8 @@
 # INTRODUCTION
   Shoppers are sometimes interested in a product but are hoping for a price reduction before they are motivated to purchase it. In such situations, the Price Drop Alert helps visitors to subscribe to alerts about the price drop of a product.
-  
+
+# Website Link:-https://droppricealert.herokuapp.com/
+
 # HOW IT WORKS(AFTER LOGIN)
 #  1. REQUIRE ITEM URL
   
@@ -52,6 +54,4 @@
     It has been observed that prices of many items on online stores fluctuate at very high frequency like in Amazon, the price will change in every 10 minutes. With the help of this web app you can track any product you wish to buy. This web app can track both E-commerce as well as E-learning Websites like:- Amazon,Udemy,Flipkart etc.
 
 # QUERY
-    For any query, leave you message, we will try to contact you or solve your problem.
-
-# Website Link:-https://droppricealert.herokuapp.com/
+    For any query, leave your message, we will try to contact you or solve your problem.
